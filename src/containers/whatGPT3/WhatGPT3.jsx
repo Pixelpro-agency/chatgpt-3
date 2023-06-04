@@ -5,16 +5,16 @@ import './whatGPT3.css';
 const WhatGPT3 = () => (
   <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
     <div className="gpt3__whatgpt3-feature">
-      <Feature title="Cosa è GPT-3" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by." />
+      <Feature title="Cosa è GPT-3" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare neque ut elit pellentesque egestas. Nam vulputate elementum mi in fringilla. Nulla ante mauris, bibendum Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare neque ut elit pellentesque egestas" />
     </div>
     <div className="gpt3__whatgpt3-heading">
       <h1 className="gradient__text">Le possibilità vanno oltre la tua immaginazione</h1>
       <p>Esplora la Libreria</p>
     </div>
     <div className="gpt3__whatgpt3-container">
-      <Feature title="Chatbots" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought." />
-      <Feature title="Knowledgebase" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
-      <Feature title="Education" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
+      <Feature title="Chatbots" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare neque ut elit pellentesque egestas. Nam vulputate elementum" />
+      <Feature title="Knowledgebase" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare neque ut elit pellentesque egestas. Nam vulputate elementum" />
+      <Feature title="Education" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare neque ut elit pellentesque egestas. Nam vulputate elementum" />
     </div>
   </div>
 );
